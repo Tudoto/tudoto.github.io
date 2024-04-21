@@ -6,8 +6,7 @@ sitemap: true
 permalink: /about/
 ---
 ## Introduction
-I am a software engineer working in a chinease company. I am inteseted in programming language (especially in GC ), virtual machine and compiler. 
-Since my previous studies focused on semiconductors and communications, I was just a rookie in above fields. This website was created for my recording of my studies.
+I am a software engineer currently working in China. I am interested in programming language (especially in GC ), virtual machine and compiler. Since my previous studies focused on semiconductors and wireless communications, I was just a rookie in above fields. This website was created for the stage conconlusion of my studies.
 
 ## My Resume
 
@@ -19,7 +18,7 @@ Since my previous studies focused on semiconductors and communications, I was ju
 
 
 ## My cat
-I have a cat that I adopted with my partner. He is a one-year-old boy named MayoHachi. Mayo means egg yolk and Hachi means eight in Japanese. We named it because the color of his coat resembles egg yolk and he was found on the eighth floor.
+I adopted this cat with my partner. He is a one-year-old boy, and we named him MayoHachi. Mayo means egg yolk and Hachi means eight in Japanese. The reason we use this name is because the color of his coat resembles egg yolk and he was snooping around for food on the eighth floor of one office building when we found him (and captured him after of course).
 ![蛋黄证件照](/assets/images/81713626833_.pic.jpg){: .align-center}
 
 ## My life
