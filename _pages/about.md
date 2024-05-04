@@ -5,8 +5,12 @@ excerpt: "关于我的大小事"
 sitemap: true
 permalink: /about/
 ---
+
+> 2024-5-12  updated:   
+> Me and QQ made a new column called ppt talks to share some little topic that we leaned everyday, and you can found it in navigation. Welcome to check and leave your opinion.
+
 ## Introduction
-I am a software engineer currently working in China. I am interested in programming language (especially in GC ), virtual machine and compiler. Since my previous studies focused on semiconductors and wireless communications, I was just a rookie in above fields. This website was created for the stage conconlusion of my studies.
+I am a software engineer currently working in China. I am interested in programming language (especially in GC ), virtual machine and compiler. Since my previous studies focused on semiconductors and wireless communications, I was just a rookie in above fields. This website was created for the stage conconlusion of my studies. My work uses C++ for programming, and during my master's degree, I used MATLAB extensively for simulation. In addition, I also used python, verilog, c in some coursework.
 
 ## My Resume
 
